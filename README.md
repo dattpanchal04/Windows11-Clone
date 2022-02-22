@@ -1,6 +1,11 @@
 
 # Windows 11 Clone using HTML, CSS & JavaScript
 
+- Preview
+
+![win11](https://user-images.githubusercontent.com/94067118/155179020-53d06b8c-508e-4fa8-94cd-73d64ce34b52.png)
+
+
 Hi dear, I created Windows 11 clone using HTML, CSS and JavaScript. This is not responsive so you can only view this clone perfectly in your PC or Laptop. So, check out this amazing windows 11 clone. Thank you for visit !
 
 ## Authors
