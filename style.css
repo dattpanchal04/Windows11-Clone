@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    background-size: cover;
+    background-color: #141010;
+}
+.taskbar{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f3f3;
+    z-index: 110;
+}
+.taskbar:hover{
+    cursor: pointer;
+}
+.taskbar .rightbar{
+    position: absolute;
+    right: 0px;
+    justify-content: flex-end;
+    margin: 6px 0px;
+    height: 85%;
+}
+.startMenu{
+    position: absolute;
+    bottom: -700px;
+    width: 100%;
+    text-align: center;
+    transition: all 0.2s ease-in;
+}
+.startMenu img{
+    border-radius: 8px;
+}
+.icons{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    width: 7%;
+    position: absolute;
+}
+.icons:hover{
+    cursor: pointer;
+}
+.icons img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 60px;
+    margin: 10px;
+}
+.icons .text{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    width: 90%;
+    text-align: center;
+}
+video{
+    margin: 0px;
+    padding: 0px;
+}
